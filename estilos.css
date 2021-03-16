@@ -2,3 +2,11 @@ h1 {
     text-align: center;
     color: blue;
 }
+
+footer {
+    margin-top: 200px;
+    width: 100%;
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+}
